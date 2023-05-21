@@ -1,0 +1,21 @@
+.image_room {
+    width: 400px;
+    height: 300px;
+}
+
+#login_form {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.registration {
+    display: none;
+}
+
+.registration_open {
+    display: block;
+    position: fixed;
+    left: 700px;
+    top: 50%;
+}
